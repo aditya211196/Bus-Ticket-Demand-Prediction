@@ -75,16 +75,4 @@ Plotted LightGBM’s feature importances. Final model retained top contributing 
 - Python 3.9+
 - Libraries: `lightgbm`, `optuna`, `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
 
----
 
-##  Future Improvements
-
-- Try alternative models like **CatBoost** or **XGBoost**
-- Consider ensemble approaches
-- Evaluate temporal patterns more deeply (e.g., holidays, month)
-
----
-
-## 👤 Author
-
-Built collaboratively with assistance from ChatGPT as a data science partner.
