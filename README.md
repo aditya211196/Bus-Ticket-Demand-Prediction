@@ -1,4 +1,4 @@
-# Bus-Ticket-Demand-Prediction
+# Red Bus-Ticket-Demand-Prediction
 Predict bus seat demand 15 days ahead using LightGBM with feature engineering and Optuna tuning.
 
 # Bus Seat Demand Forecasting – Analytics Vidhya Hackathon
